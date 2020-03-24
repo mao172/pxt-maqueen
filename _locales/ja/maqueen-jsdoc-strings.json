@@ -1,0 +1,13 @@
+{
+  "maqueenIR.initIR": "initialises local variablesssss",
+  "maqueenIR.onPressEvent": "button pushed.",
+  "maqueencb": "@file pxt-maqueen/maqueen.ts\n@brief DFRobot's maqueen makecode library.\n@n [Get the module here](https://www.dfrobot.com.cn/goods-1802.html)\n@n This is a MakeCode graphical programming education robot.\n* @copyright    [DFRobot](http://www.dfrobot.com), 2016\n@copyright    MIT Lesser General Public License\n* @author [email](jie.tang@dfrobot.com)\n@version  V0.1.2\n@date  2019-10-08",
+  "maqueen.motorStop": "モーター（左側、 右側 または すべて）を停止します。",
+  "maqueen.motorStopAll": "全てのモーターを停止します。",
+  "maqueen.motorRun": "モーター（左側、 右側 または すべて）を指定した方向（正転 または 反転）に指定した速さで動かします。",
+  "maqueen.IR_callbackUser": "赤外線センサーが信号を受信したときに、実行されます。\n受信した値は変数「%message」から取得できます。",
+  "maqueen.Ultrasonic": "超音波距離センサーの値を読み取ります。",
+  "maqueen.readPatrol": "ラインセンサー（左側 または 右側）の値を読み取ります。",
+  "maqueen.servoRun": "Maqueen本体の前面に取り付けられたREDライト（左側 または 右側）のON/OFFを設定します。",
+  "maqueen.IR_read": "赤外線センサーの値を読み取ります。"
+}
